@@ -1,22 +1,22 @@
 export const UsersData = [
   {
     id: 1,
-    name: "Leanne Graham",
-    username: "Bret",
+    name: "Ljoh kamau",
+    username: "kamaa",
   },
   {
     id: 2,
-    name: "Ervin Howell",
-    username: "Antonette",
+    name: "Ervin odhiambo",
+    username: "odhis",
   },
   {
     id: 3,
-    name: "Clementine Bauch",
+    name: "Clementine MUsyoka",
     username: "clementine",
   },
   {
     id: 4,
-    name: "Patricia Lebsack",
+    name: "Patricia Ngina ",
     username: "Karianne",
   },
   {
